@@ -1,0 +1,12 @@
+  
+{
+"products":[
+{"id":1,"name":"Kaos Distro",GamepadButton:"Buy",category":"Kaos"},
+{"id":2,"name":"Kemeja Distro",GamepadButton:"Buy",category":"Kemeja"},
+{"id":3,"name":"Gesper","\images\return.zero___20200430_4.png",GamepadButton:"Buy",category":"Akesoris"},
+{"id":4,"name":"Sepatu",GamepadButton:"Buy",category":"Aksesoris"},
+{"id":1,"name":"Celana",GamepadButton:"Buy",category":"Pants"},
+{"id":1,"name":"Jaket",fanArt:"GamepadButton:"Buy",category":"Jaket"},
+
+]
+}
